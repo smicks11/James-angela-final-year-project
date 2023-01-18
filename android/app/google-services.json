@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "512379230504",
+    "project_id": "safespace-1718a",
+    "storage_bucket": "safespace-1718a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512379230504:android:c5ae11fd7c473496d6981d",
+        "android_client_info": {
+          "package_name": "com.example.safespace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512379230504-jf9gsldnkj13404a8sj1jrj8qjloihfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safespace",
+            "certificate_hash": "bbab15d8b3f19a9cdfc34e079f2c886ca28ec270"
+          }
+        },
+        {
+          "client_id": "512379230504-hgnattl1ij1n2hgr70l6idmq24i593nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQPcm6m3Gn5weYexWLp8c-7aic07fLDHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512379230504-hgnattl1ij1n2hgr70l6idmq24i593nv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "512379230504-s7f4hm8vknnjgsd8hp249d2g1o2l1r97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.safespace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
